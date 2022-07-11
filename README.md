@@ -1,4 +1,4 @@
-### 规格选择DEMO
+### flex布局计算DEMO
 ### 技术栈
 Vue 3 + Vite
 ### 安装
